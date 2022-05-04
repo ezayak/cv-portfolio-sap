@@ -12,7 +12,7 @@ import { Meal } from './pages/meals/Meal';
 function App() {
     return (
         <>
-            <Router>
+            <Router basename='/cv-portfolio-sap'>
                 <Header />
                 <main className="container content">
                         <Routes>
