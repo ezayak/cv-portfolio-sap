@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cv-portfolio-sap/static/css/main.8cb3fea8.css",
+    "main.js": "/cv-portfolio-sap/static/js/main.d7f051f2.js",
+    "index.html": "/cv-portfolio-sap/index.html",
+    "main.8cb3fea8.css.map": "/cv-portfolio-sap/static/css/main.8cb3fea8.css.map",
+    "main.d7f051f2.js.map": "/cv-portfolio-sap/static/js/main.d7f051f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cb3fea8.css",
+    "static/js/main.d7f051f2.js"
+  ]
+}
